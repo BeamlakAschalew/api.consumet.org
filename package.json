@@ -14,16 +14,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/consumet/consumet.ts.git"
+        "url": "git+https://github.com/BeamlakAschalew/consumet.ts.git"
     },
     "author": "prince-ao <princead@tutanota.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/consumet/consumet.ts/issues"
+        "url": "https://github.com/BeamlakAschalew/consumet.ts/issues"
     },
-    "homepage": "https://github.com/consumet/consumet.ts#readme",
+    "homepage": "https://github.com/BeamlakAschalew/consumet.ts#readme",
     "dependencies": {
-        "@consumet/extensions": "github:consumet/consumet.ts",
+        "@consumet/extensions": "https://github.com/BeamlakAschalew/consumet.ts.git",
         "@fastify/cors": "^8.2.0",
         "@types/fastify-cors": "^2.1.0",
         "@types/node": "^18.11.17",
