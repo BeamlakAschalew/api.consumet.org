@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/BeamlakAschalew/consumet.ts#readme",
     "dependencies": {
-        "@consumet/extensions": "https://github.com/BeamlakAschalew/consumet.ts.git",
+        "@consumet/extensions": "https://github.com/consumet/consumet.ts.git",
         "@fastify/cors": "^8.2.0",
         "@types/fastify-cors": "^2.1.0",
         "@types/node": "^18.11.17",
